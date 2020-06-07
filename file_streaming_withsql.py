@@ -1,12 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun  6 10:14:43 2020
 
-@author: sosam
-"""
-
-
-# -*- coding: utf-8 -*-
 from pyspark.sql import SparkSession
 from pyspark.sql.types import *
 
